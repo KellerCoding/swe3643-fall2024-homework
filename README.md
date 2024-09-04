@@ -1,2 +1,4 @@
-# swe3643-fall2024-homework
-This is the simple repository for my Software Testing &amp; QA Class for fall semester 2024
+# Fall 2024 SWE 3643 Testing and QA Homework
+## Kahmin Keller
+
+- Homework 1: Create a git repo and a simple unit
