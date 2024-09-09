@@ -3,6 +3,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+//Completed Homework 1 - All steps completed for homework 1
 class CalculatorTest {
 
     @Test
