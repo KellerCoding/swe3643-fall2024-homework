@@ -19,7 +19,7 @@
 flowchart TD
 
 start(((Start Sample Standard Dev))) --> COMPUTE_SAMPLE_STANDARD_DEVIATION
-start(((Start Population Standard Dev))) --> COMPUTE_POPULATION_STANDARD_DEVIATION
+start2(((Start Population Standard Dev))) --> COMPUTE_POPULATION_STANDARD_DEVIATION
 COMPUTE_SAMPLE_STANDARD_DEVIATION --> |isPopulation=false| COMPUTE_STANDARD_DEVIATION
 COMPUTE_STANDARD_DEVIATION --> valueList1.isEmpty
 valueList1.isEmpty --> |True| raiseError
